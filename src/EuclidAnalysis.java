@@ -1,4 +1,4 @@
-public class EuclidAlgorithm {
+public class EuclidAnalysis {
     public static void main(String[] args) {
         int firstInt = Integer.parseInt(args[0]);
         int secondInt = Integer.parseInt(args[1]);
